@@ -1,0 +1,22 @@
+[project]
+name = "faq-chatbot"
+version = "0.1.0"
+description = "FAQ Chatbot using Gemini API and LangChain"
+authors = [
+    { name = "Chaudhry Bassam Tanvir", email = "chbassamtanvir@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.11,<4.0"
+
+dependencies = [
+    "langchain==0.1.9",
+    "nltk>=3.9.2,<4.0.0",
+    "chromadb>=1.1.1,<2.0.0",
+    "google-generativeai (<0.6.0)",
+    "langchain-google-genai (==1.0.3)",
+    "sentence-transformers (>=5.1.1,<6.0.0)"
+]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

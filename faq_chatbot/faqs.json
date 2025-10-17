@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How can I register my lost mobile in the Mobile Finder System?",
+    "answer": "You can register your lost mobile by logging into the app and filling out the 'Register Fon' form with IMEI and proof of ownership."
+  },
+  {
+    "question": "How can I track my lost mobile?",
+    "answer": "After registering, go to the dashboard to check your FIR status and location updates."
+  },
+  {
+    "question": "Can I add a trusted person?",
+    "answer": "Yes, you can add a trusted person in the 'Trusted Person' section to help recover your mobile faster."
+  }
+]

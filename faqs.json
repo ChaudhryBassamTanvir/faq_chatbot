@@ -1,0 +1,70 @@
+[
+  {
+    "question": "How can I register my lost mobile in the Mobile Finder System?",
+    "answer": "You can register your lost mobile by logging into the app and filling out the 'Register Fon' form. Make sure to include the IMEI number, mobile brand and model, purchase date, and upload proof of ownership (bill or receipt)."
+  },
+  {
+    "question": "How can I track my lost mobile?",
+    "answer": "After registering your lost mobile, go to the dashboard. You can see the FIR status, real-time location updates (if available), and notifications if someone finds or reports your device."
+  },
+  {
+    "question": "Can I add a trusted person?",
+    "answer": "Yes, you can add a trusted person in the 'Trusted Person' section. They can help you report lost devices, receive notifications, and assist in recovering your mobile faster."
+  },
+  {
+    "question": "What proof of ownership is required?",
+    "answer": "You need to provide a clear image of your purchase receipt, bill, or any document showing the IMEI and your name. This helps verify ownership when recovering a lost mobile."
+  },
+  {
+    "question": "How do I check if my mobile’s IMEI is valid?",
+    "answer": "The app automatically validates your IMEI when you enter it in the 'Register Fon' form. If it is invalid, you will receive an alert to correct it before submitting."
+  },
+  {
+    "question": "Can I report a found mobile?",
+    "answer": "Yes! Go to the 'Lost & Found Marketplace' section and choose 'Post Found Item'. Enter details of the mobile, IMEI if available, and your contact information so the owner can reach you."
+  },
+  {
+    "question": "Will I receive notifications about my lost mobile?",
+    "answer": "Absolutely. The app sends push notifications when there is a status update on your FIR, if your mobile is found, or when trusted persons report activity related to your device."
+  },
+  {
+    "question": "Can I use multiple languages in the app?",
+    "answer": "Yes, the Mobile Finder System supports multilingual interface options. You can select your preferred language in the settings."
+  },
+  {
+    "question": "How do I file an FIR through the app?",
+    "answer": "Once your lost mobile is registered, you can file an FIR directly through the app. Fill out the FIR form with all details of the device, attach proof of ownership, and submit. The app will provide a reference number for tracking."
+  },
+  {
+    "question": "Is my personal information safe?",
+    "answer": "Yes, the Mobile Finder System encrypts sensitive data and uses secure servers to protect your personal information, including phone numbers, emails, and proof of ownership documents."
+  },
+  {
+    "question": "How can I delete or update my mobile registration?",
+    "answer": "You can go to the 'Registered Mobiles' section, select the mobile, and choose 'Update' to change details or 'Delete' to remove it from your account."
+  },
+  {
+    "question": "Can I report multiple lost mobiles?",
+    "answer": "Yes, each mobile needs to be registered separately with its IMEI and proof of ownership. You can manage multiple devices from the dashboard."
+  },
+  {
+    "question": "How can I contact support?",
+    "answer": "For help, go to the 'Help Center' in the app. You can access FAQs, contact the support team via chat or email, and receive assistance with registration, tracking, or reporting issues."
+  },
+  {
+    "question": "What if someone tries to claim my mobile falsely?",
+    "answer": "The app verifies ownership through IMEI and proof of ownership. Any false claim can be flagged, and your trusted persons and law enforcement are notified."
+  },
+  {
+    "question": "Can I recover my mobile without the IMEI?",
+    "answer": "Providing the IMEI is highly recommended for accurate tracking. Without it, recovery is possible only through detailed description and trusted persons’ help, which may slow down the process."
+  },
+  {
+    "question": "How does the Lost & Found Marketplace work?",
+    "answer": "Users can post lost or found items with all relevant details. The system matches lost items with found items using IMEI and device details and notifies the owners if a match is found."
+  },
+  {
+    "question": "Can law enforcement access the app?",
+    "answer": "Yes, verified law enforcement accounts can access the admin panel to check registered lost mobiles, assist in recovery, and monitor FIR statuses."
+  }
+]
